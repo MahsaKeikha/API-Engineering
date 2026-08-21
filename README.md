@@ -1,3 +1,3 @@
 # API Engineering
 
-Multi-agent API architecture, implementation, testing, and review system.
+Five-agent API engineering system for contract design, security, implementation, testing, and reliability.

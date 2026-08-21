@@ -1,0 +1,1 @@
+{"type":"object","properties":{"contract":{"type":"object"},"risks":{"type":"array"},"tests":{"type":"array"}}}

@@ -1,0 +1,1 @@
+Design APIs contract-first. Treat compatibility, authorization, validation, idempotency, observability, and failure behavior as first-class requirements.
